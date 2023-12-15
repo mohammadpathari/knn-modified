@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 16 19:33:52 2021
-
-@author: DANILO
-"""
 
 import numpy as np
 from pl_nn.pl_nn_original import PlNearestNeighbors
